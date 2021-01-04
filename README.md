@@ -1,1 +1,13 @@
 # PyBer_Analysis
+## Overview of the analysis
+The purpose of the analysis is to create a dataframe summary using pandas and matplotlib libraries for the purpose of improving ride sharing data by city type. At the end of the analysis, a multi-line chart is created detailing peaks and dips in the line graph for the particular city offering more insight towards affordability
+## Results
+The PyBer data is split between three types of cities: rural, suburban and urban. According to the pie chart below, there is a higher demand of PyBer among riders in urban cities with a landslide in comparison to rural riders. Between January 2019 and May 2019, there were 1,625 rides in urban cities and 125 rides in rural cities ![image](https://user-images.githubusercontent.com/74630767/103511073-f7a0c180-4e2b-11eb-8e6a-fe0fbc341b95.png)
+In comparison, there were more urban drivers in relation to rural and suburban drivers, which points towards the need for drivers based on the total number of rides for each city type ![image](https://user-images.githubusercontent.com/74630767/103511128-0ab39180-4e2c-11eb-897f-42a30b0b04ce.png)
+Based on the details above, it is evident that the fare would also remain higher in urban cities. PyBer transactions in urban vities was close to $40,000 where rural cities total at least $4,000. Below is the breakdown of where majority of the revenue occured ![image](https://user-images.githubusercontent.com/74630767/103511329-78f85400-4e2c-11eb-950e-bfdb2587a413.png)
+Riders in rural cities are paying almost $10 higher on average than urban riders which is advantegeous for the drivers because the average fare for them averages at about $55 in rural cities versus the average of $17 they would be making in an Urban setting. ![image](https://user-images.githubusercontent.com/74630767/103511787-47cc5380-4e2d-11eb-8f4d-3057cd184f17.png)
+The multiple-line chart "Total Fare by City Type" further supports the PyBer Summary Dataframe, it provides trends for the city types Urban, Suburban and Rural. We can clearly see how the trends fared for the city types between January 2019 and April 2019. The chart demonstrates that the peak happended between February and March for the 3 types of cities analyzed. Another important trend to note is the peak in April for rural while the suburban and urban take a dip ![image](https://user-images.githubusercontent.com/74630767/103512340-2455d880-4e2e-11eb-8dca-3106c191d9a6.png)
+## Summary
+Recommendations to the CEO
+1) Invest more in Urban Cities since they continue to be the largest source of revenue for PyBer
+2) Offer discounts for rural riders to entise them more especially during the dip months
